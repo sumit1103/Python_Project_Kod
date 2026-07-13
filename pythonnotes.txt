@@ -1,0 +1,4 @@
+Extensions
+python
+pylance
+python Debugger
