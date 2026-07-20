@@ -1,0 +1,31 @@
+5000 Student ask intervire details
+1- IMP question
+2- 2 hr
+3 - DSA Question
+4 -Applying drives
+when i told seperate to eveyone it's difficult
+so use function
+------>{
+            ......
+            .....
+            .....
+            .....
+------->}
+  block  
+
+  syntax:
+  # define a function...   0 ... n
+  function_name(paraeter):
+    #body
+
+#call for function
+function _name()
+
+example: add 2 numbers in python
+
+def add():
+    a = 10 
+    b = 20
+    c = a +b
+    print(c)
+add()
