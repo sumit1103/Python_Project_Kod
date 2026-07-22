@@ -1,0 +1,19 @@
+3 types of statement
+1] - conditional / Selection
+-   -if
+    -elif
+    -elif ladder
+    - nested if
+    - match
+
+2] - looping/ Iterative
+    - for
+    -while
+    -
+
+3] Jumping / flowcontrol
+    - break
+    - continue
+    -return
+    -pass
+    
